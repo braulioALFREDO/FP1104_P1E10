@@ -13,3 +13,6 @@ Ada murió de cáncer en 1852, a la edad de 37 años, y fue enterrado al lado de
 algoritmo: podemos definir a una primera aproximacion el concepto de algoritmo como un conjunto finito de procesos a su vez finitos y bien definidos que conducen a una resultado.
 divide y venceras: el metodo divide y venceras consiste en descomponer el programa que hay que resolver una serie de subproblemas, resolver estos subproblemas y combinar despues los resultados para obtener la solucion del problema original, lo importante es que los subprobemas son del mismo tipo del problema original, pero de menor tamaño y se resuleven usando la misma tecnica.
 
+9.- grafica de la flor    100-3/(sqrt(x^2+y^2))+sin(sqrt(x^2+y^2))+sqrt(200-
+(x^2+y^2)+10*sin(x)+10sin(y))/1000, x is from -15 to 15, y is from -15 to 15, z is from
+90 to 101
